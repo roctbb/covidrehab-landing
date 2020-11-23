@@ -2455,7 +2455,7 @@ p {
 .customer-section {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url(../../assets/img/choose-bg.jpg);
+  background-color: #0f75bc;
   background-position: center center;
   background-size: cover;
 }
